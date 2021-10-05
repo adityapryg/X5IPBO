@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=belajar_static
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ belajar_static\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ perubahan()
+comment1.text=\r\n\ \r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Main\ method\r\n\r\n
+numComments=3
