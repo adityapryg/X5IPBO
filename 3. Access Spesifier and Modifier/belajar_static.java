@@ -34,5 +34,7 @@ public class belajar_static
         
         belajar_static vs2 = new belajar_static();
         vs2.perubahan();
+        
+        belajar_static2.biasa();
     }
 }
