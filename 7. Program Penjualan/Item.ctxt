@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Enkapsulasi\r\n\r\n\ @author\ (Aditya\ Prayoga)\r\n\ @npm\ (201943502046)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNama()
+comment2.params=
+comment2.target=int\ getHarga()
+comment3.params=
+comment3.target=int\ getStok()
+comment4.params=nama
+comment4.target=void\ setNama(java.lang.String)
+comment5.params=harga
+comment5.target=void\ setHarga(int)
+comment6.params=stok
+comment6.target=void\ setStok(int)
+comment7.params=
+comment7.target=void\ tampilkan()
+comment8.params=nama\ harga\ stok
+comment8.target=void\ input(java.lang.String,\ int,\ int)
+numComments=9
