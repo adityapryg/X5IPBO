@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Klinik
+comment1.params=ID\ nama\ jenis\ dosis
+comment1.target=void\ input(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=jenis
+comment2.target=java.lang.String\ caraMinum(java.lang.String)
+comment3.params=
+comment3.target=void\ tampilkanMenu()
+comment4.params=ID
+comment4.target=void\ tampilkanObatByID(java.lang.String)
+numComments=5

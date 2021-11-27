@@ -1,0 +1,4 @@
+1, Paracetamol,tablet,500mg
+2, Amoxicillin,tablet,500mg
+3, Sanmol,sirup,2ml
+4, Cefixime,kapsul,15mg

@@ -14,15 +14,15 @@ public class Item
 
     //An accessor method
     public String getNama(){
-        return nama = nama;
+        return this.nama;
     }
     
     public int getHarga(){
-        return harga = harga;
+        return this.harga;
     }
     
     public int getStok(){
-        return stok = stok;
+        return this.stok;
     }
     
     //A mutator method

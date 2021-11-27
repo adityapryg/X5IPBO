@@ -6,9 +6,6 @@
  */
 public class Camilan extends Item
 {
-    /*
-     * Constructor
-     */
    public void tampilkanCamilan(){
        Item item = new Item();
        item.input("Krupuk Udang", 1000, 2);

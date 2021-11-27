@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Obat
+comment1.params=
+comment1.target=java.lang.String\ getID()
+comment10.params=jenis
+comment10.target=java.lang.String\ caraMinum(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=
+comment3.target=java.lang.String\ getJenis()
+comment4.params=
+comment4.target=java.lang.String\ getDosis()
+comment5.params=ID
+comment5.target=void\ setID(java.lang.String)
+comment6.params=nama
+comment6.target=void\ setNama(java.lang.String)
+comment7.params=jenis
+comment7.target=void\ setJenis(java.lang.String)
+comment8.params=dosis
+comment8.target=void\ setDosis(int)
+comment9.params=
+comment9.target=java.lang.String\ mapToCSV()
+numComments=11

@@ -1,7 +1,6 @@
 #BlueJ class context
 comment0.target=Camilan
-comment0.text=\r\n\ Inheritence\r\n
+comment0.text=\r\n\ Inheritence\r\n\ \r\n\ @author\ (Aditya\ Prayoga)\r\n\ @npm\ (201943502046)\r\n
 comment1.params=
 comment1.target=void\ tampilkanCamilan()
-comment1.text=\r\n\ Constructor\r\n
 numComments=2

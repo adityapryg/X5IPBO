@@ -6,9 +6,6 @@
  */
 public class Minuman extends Item
 {
-    /*
-     * Constructor
-     */
    public void tampilkanMinuman(){
        Item item = new Item();
        item.input("Es Tea", 2000, 2);
